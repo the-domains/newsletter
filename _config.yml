@@ -1,7 +1,7 @@
 name: Newsletter
 favicon: null
-layout_spectrum: 0.75361
-typography_spectrum: 0.36057676328346133
+layout_spectrum: 1
+typography_spectrum: 0.74134
 title: "News created by and for SpritTech's"
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#ac4300'
     - '#b08b74'
   brandStrength: 0
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
