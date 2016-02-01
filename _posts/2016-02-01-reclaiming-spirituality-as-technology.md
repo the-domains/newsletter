@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T18:32:40.760Z'
+datePublished: '2016-02-01T18:32:40.932Z'
 dateModified: '2016-02-01T18:32:21.992Z'
 title: 'Reclaiming Spirituality as Technology '
 author: []
