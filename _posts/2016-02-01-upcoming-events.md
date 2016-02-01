@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T20:17:13.032Z'
-dateModified: '2016-02-01T20:16:49.041Z'
+datePublished: '2016-02-01T20:17:54.782Z'
+dateModified: '2016-02-01T20:17:43.758Z'
 title: 'Upcoming Events:'
 author: []
 authors: []
