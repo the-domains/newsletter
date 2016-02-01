@@ -5,25 +5,23 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-01T16:21:38.719Z'
-dateModified: '2016-02-01T16:19:44.072Z'
+description: "Yetunde's Bio"
+datePublished: '2016-02-01T18:31:08.795Z'
+dateModified: '2016-02-01T18:31:07.742Z'
 title: Yetunde Karade
 author: []
+sourcePath: _posts/2016-02-01-yetunde-karade.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-01-yetunde-karade.md
-published: true
 url: yetunde-karade/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48119d0b-692a-4dfd-8105-84c0ece0ad7d.jpg)
-
 # Yetunde Karade
 
 Yetunde Karade is a talented creative writer who enjoys
@@ -55,5 +53,6 @@ loves engaging in sacred traditional practices and she shines in leading
 and bringing others to inner healing and transformation via ritual.Correspondingly, she is arranging and putting
 pieces together for a memoir, highlighting her experiences of her spiritual
 journey and related travels.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/354cd9cc-001d-4124-934c-13eca8d7841c.jpg)
 
-[0]: http://www.malidoma.com/
+[0]: null
