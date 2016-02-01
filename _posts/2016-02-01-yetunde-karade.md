@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Yetunde's Bio"
-datePublished: '2016-02-01T18:31:08.814Z'
-dateModified: '2016-02-01T18:31:07.742Z'
+datePublished: '2016-02-01T18:50:27.492Z'
+dateModified: '2016-02-01T18:50:18.300Z'
 title: Yetunde Karade
 author: []
 sourcePath: _posts/2016-02-01-yetunde-karade.md
