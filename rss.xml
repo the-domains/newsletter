@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Newsletter]]></title>
+        <description><![CDATA[Newsletter]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Feb 2016 16:11:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reclaiming Spirituality as Technology ]]></title>
+            <description><![CDATA[<article><h1>Reclaiming Spirituality as Technology </h1><h2>Introduction</h2><p>Shamanism, is considered the oldest known form of
+spirituality. If that is so, all other types of worship and/or religious
+services might begin here. This information is relevant in today’s society,
+because many people have become entrenched in science and/or technology as it
+pertains to consumerism,
+i.e., computers, cells phones, digital TVs, e-books and the like. These are
+miraculous and wondrous inventions to be sure, however, they do nothing to feed
+the soul nor do they promote spiritual growth or healing. More often than not,
+materialistic technology blocks the path that one would take to grow closer to
+nature, their spiritual path or the fundamental truths of their authentic
+selves. In fact, this technology often causes a disconnection between humans
+and their soul, i.e., genuine spiritual pursuits.</p></article>]]></description>
+            <link>undefinedreclaiming-spirituality-as-technology/index.html</link>
+            <guid isPermaLink="false">bcf9e340-e576-4c9e-b9dc-60d3eda72132</guid>
+            <pubDate>Mon, 01 Feb 2016 16:11:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
