@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T20:04:39.034Z'
-dateModified: '2016-02-01T20:04:08.148Z'
+datePublished: '2016-02-01T21:35:44.152Z'
+dateModified: '2016-02-01T21:30:48.158Z'
 title: Alwyn Alphonso Thomas
 author: []
 sourcePath: _posts/2016-02-01-alwyn-alphonso-thomas.md
@@ -23,8 +23,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfbb6ed0-3b17-4d95-8e94-52b54812c58e.jpg)
-
-# Alwyn Alphonso Thomas
 
 Alwyn Thomas is an
 intuitive healer and diviner. In the U.S, Alwyn facilitates lectures,
