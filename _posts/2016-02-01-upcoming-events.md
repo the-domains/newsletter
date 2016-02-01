@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T20:17:54.782Z'
-dateModified: '2016-02-01T20:17:43.758Z'
+datePublished: '2016-02-01T20:44:23.912Z'
+dateModified: '2016-02-01T20:44:16.255Z'
 title: 'Upcoming Events:'
 author: []
+sourcePath: _posts/2016-02-01-upcoming-events.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-01-upcoming-events.md
-published: true
 url: upcoming-events/index.html
 _type: Article
 
@@ -41,4 +41,6 @@ becoming a compensated healer/elder/medicine man or woman. With this program,
 you will experience the joy and satisfaction of transforming other people's
 lives in profound and moving ways!
 
-Stay tuned for more information and locations.
+for more information [www.thespirittech.com][0]. Plus, stay tuned for more information and locations.
+
+[0]: null
