@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T20:17:12.943Z'
+datePublished: '2016-02-01T20:17:12.984Z'
 dateModified: '2016-02-01T20:16:49.041Z'
 title: 'Upcoming Events:'
 author: []
