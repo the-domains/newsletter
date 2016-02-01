@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T18:39:57.980Z'
-dateModified: '2016-02-01T18:33:32.029Z'
+datePublished: '2016-02-01T20:49:21.242Z'
+dateModified: '2016-02-01T20:49:06.159Z'
 title: 'Reclaiming Spirituality as Technology '
 author: []
 sourcePath: _posts/2016-02-01-reclaiming-spirituality-as-technology.md
