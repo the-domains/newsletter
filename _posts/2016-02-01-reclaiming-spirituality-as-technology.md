@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T18:32:40.932Z'
-dateModified: '2016-02-01T18:32:21.992Z'
+datePublished: '2016-02-01T18:39:57.980Z'
+dateModified: '2016-02-01T18:33:32.029Z'
 title: 'Reclaiming Spirituality as Technology '
 author: []
 sourcePath: _posts/2016-02-01-reclaiming-spirituality-as-technology.md
@@ -85,3 +85,4 @@ to bridge the knowledge of the modern world with that of the ancients through
 meditation, music, clothing, herbs, plants and medicine. 
 
 ���W��
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e130213a-6d3a-47cf-88ba-fff23ed281a0.jpg)
