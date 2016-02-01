@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T20:49:21.116Z'
-dateModified: '2016-02-01T20:49:06.159Z'
+datePublished: '2016-02-01T21:40:56.709Z'
+dateModified: '2016-02-01T21:40:14.775Z'
 title: 'Reclaiming Spirituality as Technology '
 author: []
 sourcePath: _posts/2016-02-01-reclaiming-spirituality-as-technology.md
@@ -22,6 +22,8 @@ url: reclaiming-spirituality-as-technology/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/870dadca-1fac-4ff6-a91c-c8d7b6870a21.jpg)
+
 # Reclaiming Spirituality as Technology 
 
 ## Introduction
@@ -82,7 +84,4 @@ and start to become more self-reliant. As you continue to grow, you learn to
 recognize what's real and/or what's merely created by the materialism and
 consumerism that governs our country. Spiritual Technology gives you the chance
 to bridge the knowledge of the modern world with that of the ancients through
-meditation, music, clothing, herbs, plants and medicine. 
-
-���W��
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e130213a-6d3a-47cf-88ba-fff23ed281a0.jpg)
+meditation, music, clothing, herbs, plants and medicine.
