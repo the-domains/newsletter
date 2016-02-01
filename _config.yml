@@ -2,6 +2,7 @@ name: Newsletter
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.36057676328346133
+title: "News created and for SpritTech's"
 cta:
   domain: null
   bucket: null
