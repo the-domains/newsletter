@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T21:35:44.152Z'
-dateModified: '2016-02-01T21:30:48.158Z'
+datePublished: '2016-02-02T00:22:35.417Z'
+dateModified: '2016-02-02T00:20:53.952Z'
 title: Alwyn Alphonso Thomas
 author: []
 sourcePath: _posts/2016-02-01-alwyn-alphonso-thomas.md
