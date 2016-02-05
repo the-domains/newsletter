@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-02T00:26:34.324Z'
-dateModified: '2016-02-02T00:26:21.765Z'
-title: 'Upcoming Events:'
+datePublished: '2016-02-05T08:39:17.883Z'
+dateModified: '2016-02-05T08:39:13.859Z'
+title: "April & May:\_Embracing the, I Am! - 2 ½ Day Intensive "
 author: []
 sourcePath: _posts/2016-02-01-upcoming-events.md
 published: true
@@ -24,9 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42effb7e-019b-4f34-99d8-77f62853086c.jpg)
 
-# Upcoming Events:
-
-## April & May: Embracing the, I Am! - 2 ½ Day Intensive
+# April & May: Embracing the, I Am! - 2 ½ Day Intensive
 
 This is the first part of "The
 Journey of the SpiritTech Intensive Training Program". 
