@@ -3,21 +3,18 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-05T08:39:17.883Z'
-dateModified: '2016-02-05T08:39:13.859Z'
-title: "April & May:\_Embracing the, I Am! - 2 ½ Day Intensive "
+description: >-
+  for more information www.thespirittech.com. Plus, stay tuned for more
+  information and locations.
+datePublished: '2016-06-23T23:42:25.232Z'
+dateModified: '2016-06-23T23:41:25.178Z'
+title: "April & May:\_Embracing the, I Am! - 2 ½ Day Intensive"
 author: []
 sourcePath: _posts/2016-02-01-upcoming-events.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: upcoming-events/index.html
 _type: Article
 
