@@ -1,6 +1,6 @@
 name: SpirtTech Community News
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.25451
 typography_spectrum: 0.74134
 title: SpiritTech Community News
 cta:
@@ -22,7 +22,7 @@ color:
     - '#fff6ef'
     - '#ac4300'
     - '#b08b74'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0
